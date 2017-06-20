@@ -11,11 +11,11 @@ A concise tool to generate projects in an easy way.
 
 # Installation
 ```
-npm install radix-cli -g
+npm install radix1993-cli -g
 ```
 or
 ```
-git clone https://github.com/Expendo/radix.git
+git clone https://github.com/arcsin1/radix.git
 
 cd radix && npm install
 
@@ -46,7 +46,7 @@ Open your terminal and type `radix` or `radix -h` , you'll see the help informat
 ### add | a
 This command would help you to add a new template to the `templates.json`, which will be used by `radix` to generate projects.
 ```
-$ raix add
+$ radix add
 
 ? Set the custom name of the template: myApp
 ? Owner/name of the template: Expendo/react-antd-webpack （your github project name）
